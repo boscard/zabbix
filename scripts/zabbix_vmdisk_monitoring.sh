@@ -61,9 +61,9 @@ usage()  {
         echo -e "Script for virtual machines disk images monitoring"
         echo -e "Usage options"
         echo -e "\t-p <pathToFile>\tpath to VM's disk image"
-        echo -e "\t-s\tvirtual size"
-        echo -e "\t-r\treal size"
-        echo -e "\t-d\tzabix discovery"
+        echo -e "\t-v\t\tvirtual size"
+        echo -e "\t-r\t\treal size"
+        echo -e "\t-d\t\tzabix discovery"
         echo -e "\t-h\t\tthis text"
 }
 
